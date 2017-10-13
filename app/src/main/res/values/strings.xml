@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FakePhone</string>
+    <string name="calling">Calling...</string>
+    <string name="call">CALL</string>
+    <string name="finish">FINISH</string>
+    <string name="delete">DELETE</string>
+
+</resources>
